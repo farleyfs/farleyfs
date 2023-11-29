@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="./assets/hello.gif" />
-</p>
+```html
++ //
+<h1 align="center">Flavio Farley de Souza</h1>
+```
 
 ### **About:**
 
