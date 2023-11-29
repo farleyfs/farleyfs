@@ -4,9 +4,11 @@
 <section >
   <h3 style="color: gray">About</h3>
   <div style="background: grey">
-    <h4>Tech and art Lover :heart:</h4>
+    <p>
+    Tech and art Lover :heart:
     - Campinas-SP, Brazil :brazil:
     - 26 years old
+    </p>
   </div>
 </section>
 
