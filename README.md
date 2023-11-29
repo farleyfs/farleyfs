@@ -4,10 +4,9 @@
 
 ### **About: **
 
-```
-  Tech and art Lover :heart:
-  - Campinas-SP, Brazil :brazil:
-  - 26 years old
+```diff
+  - [#f03c15](Campinas-SP, Brazil)
+
 ```
 
 <!--
