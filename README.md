@@ -20,6 +20,15 @@
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361)
 
 </div>
+
+### **Next Steps:**
+
+```diff
+#bootStrap
+#typeScript
+#nodeJS
+```
+
 <!--
 **farleyfs/farleyfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
