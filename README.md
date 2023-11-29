@@ -24,7 +24,8 @@
 ### **Next Steps:**
 
 ```diff
-#bootStrap
+#Tailwind
+#Bootstrap
 #typeScript
 #nodeJS
 ```
