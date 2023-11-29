@@ -3,8 +3,8 @@
 ### **About:**
 
 ```diff
-- Campinas-SP, Brazil :brazil:
-- 26 years old
++ Campinas-SP, Brazil :brazil:
++ 26 years old
 
 ```
 
