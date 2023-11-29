@@ -1,7 +1,6 @@
-<header>
-<h2 align="center">### Hi there, I'm Flavio Farley! 👋</h2>
-</header>
-<section >
+<p align="center">
+  <img src="./assets/hello.gif" />
+</p><section >
   <h3 style="color: gray">About</h3>
   <div style="background: grey">
     <p>
