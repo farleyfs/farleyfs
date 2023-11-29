@@ -1,4 +1,4 @@
-<h1 align="center" color="gray">Flavio Farley de Souza</h1>
+<h1 align="center" color="gray">$${\color{red}Flavio Farley de Souza}$$</h1>
 
 ### **About:**
 
