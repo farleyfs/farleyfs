@@ -1,15 +1,14 @@
 <p align="center">
   <img src="./assets/hello.gif" />
-</p><section >
-  <h3 style="color: gray">About</h3>
-  <div style="background: grey">
-    <p>
-    Tech and art Lover :heart:
-    - Campinas-SP, Brazil :brazil:
-    - 26 years old
-    </p>
-  </div>
-</section>
+</p>
+
+### **About: **
+
+```
+  Tech and art Lover :heart:
+  - Campinas-SP, Brazil :brazil:
+  - 26 years old
+```
 
 <!--
 **farleyfs/farleyfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
