@@ -1,4 +1,4 @@
-<h1 align="center" color="gray">$${\color{lightblue}Flavio \space Farley \space de \space Souza}$$</h1>
+<h1 align="center" color="gray">$${\color{lightblue}Flavio \space Farley \space de \space Souza✨}$$</h1>
 
 <p align="center">
   <a target="_blank" href="https://twitter.com/fsfarley97">
@@ -15,7 +15,7 @@
 ```diff
 + Campinas-SP, Brazil :brazil:
 + 26 years old
-
++ Currently studying ReactJS
 ```
 
 ### **Tools:**
@@ -38,6 +38,12 @@
 #Bootstrap
 #typeScript
 #nodeJS
+#ReactNative
+```
+### **Projects:**
+
+```diff
+#Coming Soon
 ```
 
 <!--
