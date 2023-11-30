@@ -1,5 +1,15 @@
 <h1 align="center" color="gray">$${\color{lightblue}Flavio \space Farley \space de \space Souza}$$</h1>
 
+<p align="center">
+  <a target="_blank" href="https://twitter.com/fsfarley97">
+    <img src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
+  </a>
+  <a target="_blank" href="https://www.instagram.com/flaviofs97"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>  
+  <a target="_blank" href="https://www.linkedin.com/in/flavio-farley-de-souza-160731241/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
+  </a>
+
 ### **About:**
 
 ```diff
